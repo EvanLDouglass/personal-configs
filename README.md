@@ -1,2 +1,2 @@
 # personal-configs
-Full and partial configuration files for various applications that are useful to have available from anywhere.
+Currently only contains a .vimrc file so I can easily copy it to new computers and servers.
